@@ -1,0 +1,17 @@
+feature_cols
+total_reviews
+verified_purchase_ratio
+avg_rating
+rating_std
+unique_products
+pct_5star
+pct_1star
+avg_rating_deviation
+review_burstiness
+avg_sentiment
+std_sentiment
+avg_readability
+avg_excl_density
+avg_caps_ratio
+avg_word_count
+std_word_count

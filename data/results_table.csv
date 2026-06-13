@@ -1,0 +1,4 @@
+Stage,F1,ROC-AUC
+1. Baseline (behaviour only),70.4%,0.944
+2. + Graph features,73.8%,0.941
+3. + scale_pos_weight + threshold,76.0%,0.952
